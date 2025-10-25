@@ -17,3 +17,8 @@ Key Features
 🔹 Lightweight and portable, requiring only Java Runtime Environment (JRE) to execute.
 
 🔹 Displays the result up to two decimal points for accuracy.
+
+OUTPUT : 
+<img width="476" hei<img width="476" height="361" alt="Screenshot 2025-10-25 185609" src="https://github.com/user-attachments/assets/02576430-a8ed-4f6c-9e48-b6656e19e520" />
+ght="361" alt="Screenshot 2025-10-25 185609" src="https://github.com/user-attachments/assets/ddd26517-4c45-4e34-8a9c-52f57985ab50" />
+
