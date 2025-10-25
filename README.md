@@ -19,6 +19,4 @@ Key Features
 🔹 Displays the result up to two decimal points for accuracy.
 
 OUTPUT : 
-<img width="476" hei<img width="476" height="361" alt="Screenshot 2025-10-25 185609" src="https://github.com/user-attachments/assets/02576430-a8ed-4f6c-9e48-b6656e19e520" />
-
-
+<img width="476" height="361" alt="Screenshot 2025-10-25 185609" src="https://github.com/user-attachments/assets/bcb32ccc-7e0e-4de6-9016-a6621a46b323" />
